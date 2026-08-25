@@ -1,33 +1,30 @@
 # C++ Practice 🚀
 
-Welcome to my C++ programming practice repository!
+This repository contains my C++ programming practice and beginner-level programs.
 
-I am a Computer Engineering student learning C++ and building my programming fundamentals step by step.
-
-## 📚 Topics I'm Learning
-
-- C++ Basics
-- Variables and Data Types
-- Conditional Statements
-- Loops
-- Functions
-- Arrays
-- Strings
-- Basic DSA
-
-## 💻 Programs
+## 📚 Programs
 
 - Hello World
+- Calculator
 - Even or Odd
-- Positive or Negative
-- Largest Number
-- Basic Calculator
 - Factorial
+- Largest Number
+- Positive or Negative
+- Prime Number
+- Palindrome Number
+- Armstrong Number
 
-## 🎯 Goal
+## 🎯 Goals
 
-My goal is to improve my problem-solving skills, strengthen my C++ fundamentals, and gradually build projects using what I learn.
+- Improve C++ programming skills
+- Practice problem solving
+- Learn programming fundamentals
+- Build consistent coding habits
 
-## 🚀 Learning Journey
+## 🛠️ Language
 
-C++ Basics → Problem Solving → DSA → Mini Projects
+- C++
+
+## 👩‍💻 Author
+
+Riya Raj
